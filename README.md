@@ -60,7 +60,7 @@ In this lab we will actually be building the lab environment we will be using Vi
 
 We will use the free tier of LimaCharlie for our lab, this will allow us to easily deploy an agent to start gathering telemetry from our Windows system, and then start writing and deploying detection and response rules. 
 
-1. [Create a free LimaCharlie account](https://free.limacharlie.io) (please select BSidesPDX for the first option, feel free to use a burner email).
+1. [Create a free LimaCharlie account](https://free.limacharlie.io) (please select EDR Workshop for the first option, feel free to use a burner email).
 
 
 ![VM Setup](/img/8_lc_setup1.png)
