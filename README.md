@@ -287,3 +287,6 @@ resource: 'lcr://lookup/ransomware-domains'
 - action: isolate network
 
 ```
+Your detection should look like this: 
+![Ransomware Detection](/img/subscribe_ransomware_feed.png) 
+
