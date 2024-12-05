@@ -270,6 +270,14 @@ Now let's build on what we have learned in the first lab, writing a detection fo
 
 
 2. Now go back to our org and navigate back to Automation -> D&R Rules and click "New Rule" in the upper right hand corner
-3. 
+3. For our detection this time we will now do a lookup on the ransomware domain threat feed: 
+
+```yaml
+event: DNS_REQUEST
+op: lookup
+path: event/DOMAIN_NAME
+resource: 'lcr://lookup/ransomware-domains'
+
+```
 
 
