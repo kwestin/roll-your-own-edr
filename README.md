@@ -279,5 +279,11 @@ path: event/DOMAIN_NAME
 resource: 'lcr://lookup/ransomware-domains'
 
 ```
+4. Let's assume that we have a high confidence in our threat intel feed, if a device contacts a domain we are going to not only trigger an alert, but also isolate the host, in the response section of the detection add: 
 
+```yaml
+- action: report
+  name: Ransomware Domain Detection Hit
+- action: isolate network
 
+```
