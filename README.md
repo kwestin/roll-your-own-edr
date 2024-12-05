@@ -259,16 +259,15 @@ rule IDDQD_God_Mode_Rule {
 
 5. In the drop down you should see the God Mode YARA rule we just created select it. For platforms select "windows" and "linux" and click "Save".
 
-![YARA SCAN](/img/subscribe_ransomware_feed.png)
-
+![YARA SCAN](/img/21_yara_scan.png) 
 
 ## Lab 6: Ransomware Domain Threat Intel Detection
 
 Now let's build on what we have learned in the first lab, writing a detection for a single domain is great to test our initial setup, but not particularly practical. Let's add a threat intelligence feed to our LimaCharlie environment and use it in a detection. 
 
 1. In the top navigation click on "Add-ons" and search for "ransomware" you should see a "ransomware-domains" threat list and subscribe to it for your org
+![YARA SCAN](/img/subscribe_ransomware_feed.png)
 
-![YARA SCAN](/img/21_yara_scan.png) 
 
 2. Now go back to our org and navigate back to Automation -> D&R Rules and click "New Rule" in the upper right hand corner
 3. 
