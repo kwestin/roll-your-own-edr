@@ -290,3 +290,5 @@ resource: 'lcr://lookup/ransomware-domains'
 Your detection should look like this: 
 ![Ransomware Detection](/img/ransomware_detection.png) 
 
+
+## Lab 7: Recess: Velociraptor, Atomic Red Team etc
