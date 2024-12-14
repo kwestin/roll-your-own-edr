@@ -298,7 +298,7 @@ Your detection should look like this:
 ## Survey 
 
 Please fill out this survey regarding the workshop and indicate if you would like a shirt
- [Workshop Survey]([https://www.virtualbox.org/wiki/Downloads](https://forms.gle/1ieB96S9QLU9ySsM9))
+ [Workshop Survey](https://forms.gle/1ieB96S9QLU9ySsM9)
 
 
 
