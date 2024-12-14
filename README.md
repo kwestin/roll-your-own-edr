@@ -298,7 +298,7 @@ Your detection should look like this:
 ## Survey 
 
 Please fill out this survey regarding the workshop and indicate if you would like a shirt
- [Workshop Survey]([https://forms.gle/1ieB96S9QLU9ySsM9](https://docs.google.com/forms/d/e/1FAIpQLSdi2sblSC-vWdavHsHWZDpgwpW24W-QQa12og_K6sIsTIrt3Q/viewform)
+ [Workshop Survey](https://docs.google.com/forms/d/e/1FAIpQLSdi2sblSC-vWdavHsHWZDpgwpW24W-QQa12og_K6sIsTIrt3Q/viewform)
 
 
 
