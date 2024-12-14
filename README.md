@@ -291,4 +291,14 @@ Your detection should look like this:
 ![Ransomware Detection](/img/ransomware_detection.png) 
 
 
-## Lab 7: Recess: Velociraptor, Atomic Red Team etc
+## Lab 7: Recess: Velociraptor, Atomic Red Team 
+
+1. Explore the "Add-Ons" section to enable additional features for testing detections as well as incident response
+
+## Survey 
+
+Please fill out this survey regarding the workshop and indicate if you would like a shirt
+ [Workshop Survey]([https://www.virtualbox.org/wiki/Downloads](https://forms.gle/1ieB96S9QLU9ySsM9))
+
+
+
