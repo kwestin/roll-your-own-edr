@@ -291,14 +291,13 @@ Your detection should look like this:
 ![Ransomware Detection](/img/ransomware_detection.png) 
 
 
-[//]: <> ## Lab 7: Recess: Velociraptor, Atomic Red Team 
+[comment]: # ## Lab 7: Recess: Velociraptor, Atomic Red Team 
 
-[//]: <> 1. Explore the "Add-Ons" section to enable additional features for testing detections as well as incident response
+[comment]: # 1. Explore the "Add-Ons" section to enable additional features for testing detections as well as incident response
 
-[//]: <> ## Survey 
-
-[//]: <> Please fill out this survey regarding the workshop and indicate if you would like a shirt
-[//]: <>  [Workshop Survey](https://docs.google.com/forms/d/e/1FAIpQLSdi2sblSC-vWdavHsHWZDpgwpW24W-QQa12og_K6sIsTIrt3Q/viewform)
+[comment]: # ## Survey 
+[comment]: # Please fill out this survey regarding the workshop and indicate if you would like a shirt
+[comment]: #  [Workshop Survey](https://docs.google.com/forms/d/e/1FAIpQLSdi2sblSC-vWdavHsHWZDpgwpW24W-QQa12og_K6sIsTIrt3Q/viewform)
 
 
 
