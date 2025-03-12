@@ -263,7 +263,7 @@ rule IDDQD_God_Mode_Rule {
 
 ![YARA SCAN](/img/21_yara_scan.png) 
 
-## Bonus Lab 6: Ransomware Domain Threat Intel Detection
+##  Lab 6: Ransomware Domain Threat Intel Detection
 
 Now let's build on what we have learned in the first lab, writing a detection for a single domain is great to test our initial setup, but not particularly practical. Let's add a threat intelligence feed to our LimaCharlie environment and use it in a detection. 
 
@@ -293,7 +293,7 @@ Your detection should look like this:
 ![Ransomware Detection](/img/ransomware_detection.png) 
 
 
-
+For credit show your instructor you completed detection rules. 
 
 
 
