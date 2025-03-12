@@ -1,5 +1,7 @@
 # "Roll Your Own EDR/XDR" Workshop
 
+
+
 This guide will provide you with a step-by-step of all the commands we will use throughout this workshop. Please reference it as we move forward. If you have questions, feel free to ask your group moderator.
 
 ## Lab 1: Building the Lab
@@ -97,7 +99,7 @@ We will use the free tier of LimaCharlie for our lab, this will allow us to easi
 
 2. Click the "+ New Rule" button to create a new detection rule
 
-3. Name the rule "First Detection - Test"
+3. Name the rule "First Detection - [YOUR FIRST AND LAST NAME] "
 
 4. In the "Detect" window copy and past this YAML detection code:
 
@@ -169,7 +171,7 @@ Then enter this YAML for a basic reporting response:
 
 ```
 
-Save your new detection. 
+Save your new detection make sure you add [YOUR FIRST AND LAST NAME]  in the name. 
 
 4. Go into your Windows Virtual Machine in VirtualBox and disable Windows Defender (search Defender in the search box in the main nav)
 
@@ -261,7 +263,7 @@ rule IDDQD_God_Mode_Rule {
 
 ![YARA SCAN](/img/21_yara_scan.png) 
 
-## Lab 6: Ransomware Domain Threat Intel Detection
+## Bonus Lab 6: Ransomware Domain Threat Intel Detection
 
 Now let's build on what we have learned in the first lab, writing a detection for a single domain is great to test our initial setup, but not particularly practical. Let's add a threat intelligence feed to our LimaCharlie environment and use it in a detection. 
 
@@ -269,7 +271,7 @@ Now let's build on what we have learned in the first lab, writing a detection fo
 ![YARA SCAN](/img/subscribe_ransomware_feed.png)
 
 
-2. Now go back to our org and navigate back to Automation -> D&R Rules and click "New Rule" in the upper right hand corner
+2. Now go back to our org and navigate back to Automation -> D&R Rules and click "New Rule" in the upper right hand corner add [YOUR FIRST AND LAST NAME] to the title of the rule 
 3. For our detection this time we will now do a lookup on the ransomware domain threat feed: 
 
 ```yaml
@@ -289,6 +291,8 @@ resource: 'lcr://lookup/ransomware-domains'
 ```
 Your detection should look like this: 
 ![Ransomware Detection](/img/ransomware_detection.png) 
+
+
 
 
 
